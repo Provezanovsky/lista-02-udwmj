@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    padding: 40px;
+}
+
+.noticia {
+    background-color: #ffffff;
+    border: 1px solid #d1d5db;
+    border-radius: 12px;
+    max-width: 600px;
+    padding: 24px;
+    margin: 0 auto;
+}
+
+.noticia h2 {
+    margin-top: 0;
+}
+
+.informacoes {
+    color: #6b7280;
+    font-size: 14px;
+}
