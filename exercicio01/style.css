@@ -1,0 +1,25 @@
+body {
+    background-color: #1f2937;
+    color: #f9fafb;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cartao {
+    width: 80%;
+    max-width: 500px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    color: #93c5fd;
+}
