@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    padding: 40px;
+    min-height: 300px;
+}
+
+footer {
+    background-color: #1f2937;
+    color: #f9fafb;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #93c5fd;
+}
